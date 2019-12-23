@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5292cc40-26af-4ea1-8ef0-8fa19a495ccf" name="Default Changelist" comment="" />
+    <list default="true" id="5292cc40-26af-4ea1-8ef0-8fa19a495ccf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dw/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dw/Test/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IDEA\GETIDEA\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1VNt8Eod44vknfpvEby40vfblrT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,18 +66,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577105218895</updated>
-      <workItem from="1577105221828" duration="208000" />
+      <workItem from="1577105221828" duration="450000" />
     </task>
+    <task id="LOCAL-00001" summary="adaa">
+      <created>1577105578905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577105578905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="adaa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="964" y="214" key="#Project_Structure" timestamp="1577105518319">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="964" y="214" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1577105518319" />
+    <state x="984" y="147" key="CommitChangelistDialog2" timestamp="1577105576358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="984" y="147" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1577105576358" />
     <state x="1152" y="296" key="FileChooserDialogImpl" timestamp="1577105446108">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -75,10 +102,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="875" y="197" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577105429055" />
-    <state x="1161" y="354" key="git4idea.merge.GitPullDialog" timestamp="1577105536480">
+    <state x="964" y="276" key="Vcs.Push.Dialog.v2" timestamp="1577105599003">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1161" y="354" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577105536480" />
+    <state x="964" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1577105599003" />
+    <state x="1161" y="354" key="git4idea.merge.GitPullDialog" timestamp="1577105679562">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1161" y="354" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577105679562" />
     <state x="1202" y="346" key="svn.repositoryBrowser" timestamp="1577105435559">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
