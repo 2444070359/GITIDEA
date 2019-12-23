@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5292cc40-26af-4ea1-8ef0-8fa19a495ccf" name="Default Changelist" comment="" />
+    <list default="true" id="5292cc40-26af-4ea1-8ef0-8fa19a495ccf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/dw/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dw/Test/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577105218895</updated>
       <workItem from="1577105221828" duration="208000" />
+      <workItem from="1577105658561" duration="117000" />
     </task>
     <servers />
   </component>
@@ -75,10 +78,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="875" y="197" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577105429055" />
-    <state x="1161" y="354" key="git4idea.merge.GitPullDialog" timestamp="1577105536480">
+    <state x="1161" y="354" key="git4idea.merge.GitPullDialog" timestamp="1577105783420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1161" y="354" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577105536480" />
+    <state x="1161" y="354" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577105783420" />
     <state x="1202" y="346" key="svn.repositoryBrowser" timestamp="1577105435559">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
