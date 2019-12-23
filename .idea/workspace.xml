@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5292cc40-26af-4ea1-8ef0-8fa19a495ccf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5292cc40-26af-4ea1-8ef0-8fa19a495ccf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,34 +56,17 @@
       <option name="presentableId" value="Default" />
       <updated>1577105218895</updated>
       <workItem from="1577105221828" duration="208000" />
-      <workItem from="1577105658561" duration="272000" />
     </task>
-    <task id="LOCAL-00001" summary="87">
-      <created>1577105811668</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1577105811668</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="87" />
-    <option name="LAST_COMMIT_MESSAGE" value="87" />
   </component>
   <component name="WindowStateProjectService">
     <state x="964" y="214" key="#Project_Structure" timestamp="1577105518319">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="964" y="214" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1577105518319" />
-    <state x="813" y="216" key="CommitChangelistDialog2" timestamp="1577105900829">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="813" y="216" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1577105900829" />
     <state x="1152" y="296" key="FileChooserDialogImpl" timestamp="1577105446108">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -94,14 +75,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="875" y="197" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577105429055" />
-    <state x="793" y="357" key="Vcs.Push.Dialog.v2" timestamp="1577105814012">
+    <state x="1161" y="354" key="git4idea.merge.GitPullDialog" timestamp="1577105536480">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="793" y="357" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1577105814012" />
-    <state x="1161" y="354" key="git4idea.merge.GitPullDialog" timestamp="1577105783420">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="1161" y="354" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577105783420" />
+    <state x="1161" y="354" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577105536480" />
     <state x="1202" y="346" key="svn.repositoryBrowser" timestamp="1577105435559">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
